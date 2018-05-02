@@ -8,15 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Marisa Carlos
+title : Your Name 
 author :
-  name : Marisa Carlos
-  email : mbc96@cornell.edu
-  github : mbcarlos
-  twitter : MarisaBriCarlos
-  feedburner : nil
+  name : Your Name
+  email : youremail@email.com
+  github : your github username
+  twitter : your twitter username
 
-production_url : http://mbcarlos.github.io
+production_url : http://username.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)

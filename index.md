@@ -1,12 +1,13 @@
 ---
 layout: frontpage
-title: Marisa Carlos
-description: Marisa Carlos is a PhD candidate in Policy Analysis and Management and Cornell Univeristy 
-keywords: Carlos, Marisa, Cornell, health, economics
+title: Your name here
+description: So and so is a PhD student or candidate in some department at some university
+keywords: lastname, firstname, research interests, etc. 
 ---
 
-Marisa Carlos is a PhD candidate in the [Department of Policy Analysis &amp; Management](http://www.human.cornell.edu/pam) at Cornell University.
-Her research interests include health economics, specifically pharmaceuticals, hospitals, and health insurance.
+So and so is a PhD student or candidate in some department at some university. Research interests include...
+
+Here's how to create add a hyperlink to some text: [Department of Policy Analysis &amp; Management](http://www.human.cornell.edu/pam)
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -20,9 +21,9 @@ Her research interests include health economics, specifically pharmaceuticals, h
         <div class="span5">
             Marisa Carlos<br/>
             <div id="hide_email">
-            Email: <code>m</code><b>I</b><code>b</code><b>don't</b><code>c</code><b>want</b><code>9</code><b>spam!
-            </b><code>6@</code><b>So</b><code>co</code><b>please</b><code>rn</code><b>leave
-            </b><code>ell</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Email: <code>EM</code><b>I</b><code>AIL</code><b>don't</b><code>AD</code><b>want</b><code>DR</code><b>spam!
+            </b><code>ESS@</code><b>So</b><code>DO</code><b>please</b><code>MA</code><b>leave
+            </b><code>IN</code><b>me</b><code>.</code><b>alone</b><code>C</code><b>!</b><code>OM</code><br/>
             </div>
         </div>
 

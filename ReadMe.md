@@ -1,6 +1,6 @@
-## Marisa Carlos&rsquo; website
+## This is my academic website
 
-See [marisacarlos.com](http://marisacarlos.com)
+See [my website](https://username.github.io)
 
 ---
 
