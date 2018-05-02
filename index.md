@@ -1,13 +1,11 @@
 ---
 layout: frontpage
-title: Your name here
-description: So and so is a PhD student or candidate in some department at some university
-keywords: lastname, firstname, research interests, etc. 
+title: Blue Ham
+description: Blue Ham is a PhD candidate at Broom University. 
+keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
 
-So and so is a PhD student or candidate in some department at some university. Research interests include...
-
-Here's how to create add a hyperlink to some text: [Department of Policy Analysis &amp; Management](http://www.human.cornell.edu/pam)
+Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles. 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -19,7 +17,7 @@ Here's how to create add a hyperlink to some text: [Department of Policy Analysi
 
     <div class="row-fluid">
         <div class="span5">
-            Marisa Carlos<br/>
+            Blue Ham<br/>
             <div id="hide_email">
             Email: <code>EM</code><b>I</b><code>AIL</code><b>don't</b><code>AD</code><b>want</b><code>DR</code><b>spam!
             </b><code>ESS@</code><b>So</b><code>DO</code><b>please</b><code>MA</code><b>leave
@@ -30,7 +28,7 @@ Here's how to create add a hyperlink to some text: [Department of Policy Analysi
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Marisa Carlos" alt="Marisa Carlos"/></a>
+                  title="Blue Ham" alt="Blue Ham"/></a>
         </div>
     </div>
 </div>
@@ -39,8 +37,8 @@ Here's how to create add a hyperlink to some text: [Department of Policy Analysi
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">github</a></li>
-          <li><a href="https://twitter.com/MarisaBriCarlos">@MarisaBriCarlos</a></li>
+          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
+          <li><a href="https://twitter.com/dog_feelings">Twitter</a></li>
       </ul>
   </div>
 </div>

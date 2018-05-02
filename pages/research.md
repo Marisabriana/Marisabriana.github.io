@@ -1,18 +1,22 @@
 ---
 layout: page
 title: Research
-description: So and so's research
+description: Blue Ham's research
 ---
 
 
-#### <u>Underlined title of research paper</u>
-*Italicized description*
 
-#### Non-underlined title of research paper
-regular, non-italicized description with link to working paper below
+#### <u>The effects of increased eye contact on future feeding portions</u>
+*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time spent in locked eye contact with my masters. I measured the daily size of food rations provided by the masters over the same period. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
 
 
-##### Smaller paper title
+<!-- Note: this is how to write a comment in HTML. Evrything in here won't show up on your webpage.-->
 
-### Bigger paper title
+<--!
+To increase the size of the title, use fewer # in front of the paper title.
+To decrease the size of the title, use more #. 
+To remove the italics, remove the * before and after the description
+To remove the underline from the title, remove the <u> tags (<u> and </u>)
+--->
